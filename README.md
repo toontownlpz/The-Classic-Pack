@@ -5,6 +5,7 @@
 - Replaces the Toontown Rewritten theme with the Toontown Online theme
 - Removes all holiday-themed splash screens and Pick-a-Toon screens
 - Brings back the blurrier chat/thought bubbles texture
+- Restores the whisper sound effect in place of the notification sound effect
 - Mutes the Cog attacks that did not have sound effects in Toontown Online
 - Replaces the blue magnet's texture with the red magnet's texture
 - Removes the theme created for Daisy Gardens buildings
