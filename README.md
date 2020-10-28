@@ -21,7 +21,6 @@
 ## To-do list...
 - Restore the original party cannon texture
 - ~~Restore the original teleportation hole texture~~ <b>DONE!</b>
-- Restore the low-res texture for the Spider Skirt/Shorts
 - ~~Restore the original Pirate Hat accessory texture~~ <b>Not feasible, as the Pirate Hat accessory was remodelled and thus the original texture does not fit correctly</b>
 - Implement a replacement for the Donald's Dreamland tunnel signs
 ---
