@@ -21,6 +21,9 @@
 ## To-do list...
 - Restore the original party cannon texture
 - Restore the original teleportation hole texture
+- Restore the low-res texture for the Spider Skirt/Shorts
+- Restore the original Pirate Hat accessory texture
+- Implement a replacement for the Donald's Dreamland tunnel signs
 ---
 For the most authentic experience, adjust your game's video settings to be the following:
  - <b>V-Sync</b> ➜ Enabled
