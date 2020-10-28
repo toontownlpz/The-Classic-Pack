@@ -1,5 +1,5 @@
 # The Classic Pack
- A resource pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online. Inspired by the 'Old Toontown Content Pack' created by [/u/jojo8624](https://www.reddit.com/user/jojo8624/).
+ A resource pack for [Toontown Rewritten](https://www.toontownrewritten.com/), restoring the low-quality goodness of Toontown Online. Inspired by the 'Old Toontown Content Pack' created by [/u/jojo8624](https://www.reddit.com/user/jojo8624/).
 
 ## At the moment, the pack does the following...
 - Replaces the Toontown Rewritten theme with the Toontown Online theme
@@ -22,7 +22,7 @@
 - Restore the original party cannon texture
 - Restore the original teleportation hole texture
 - Restore the low-res texture for the Spider Skirt/Shorts
-- Restore the original Pirate Hat accessory texture
+- ~~Restore the original Pirate Hat accessory texture~~ <b>Not feasible, as the Pirate Hat accessory was remodelled and thus the original texture does not fit correctly</b>
 - Implement a replacement for the Donald's Dreamland tunnel signs
 ---
 For the most authentic experience, adjust your game's video settings to be the following:
