@@ -19,3 +19,4 @@
 
 ### To-do list...
 - Restore the original party cannon texture
+- Restore the original teleportation hole texture
