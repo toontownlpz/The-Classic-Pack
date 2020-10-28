@@ -1,7 +1,7 @@
 # The Classic Pack
- A resource pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online.
+ A resource pack for Toontown Rewritten, restoring the low-quality goodness of Toontown Online. Inspired by the 'Old Toontown Content Pack' created by [/u/jojo8624](https://www.reddit.com/user/jojo8624/).
 
-### At the moment, the pack does the following...
+## At the moment, the pack does the following...
 - Replaces the Toontown Rewritten theme with the Toontown Online theme
 - Removes all holiday-themed splash screens and Pick-a-Toon screens
 - Brings back the blurrier chat/thought bubbles texture
@@ -18,6 +18,15 @@
 - Brings back the original Rainbow Angel Wings accessory texture
 - Restores the Cog gardening statue to its original texture
 
-### To-do list...
+## To-do list...
 - Restore the original party cannon texture
 - Restore the original teleportation hole texture
+---
+For the most authentic experience, adjust your game's video settings to be the following:
+ - <b>V-Sync</b> ➜ Enabled
+ - <b>Antialiasing</b> ➜ Off
+ - <b>LOD Distance</b> ➜ Near
+ - <b>Font Quality</b> ➜ Classic
+ - <b>Animation Blending</b> ➜ Disabled
+ - <b>GUI Animation</b> ➜ Disabled
+ - <b>Animation Smoothing</b> ➜ Disabled
