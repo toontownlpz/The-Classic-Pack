@@ -17,12 +17,12 @@
 - Replaces the themes created for the Cashbot HQ lobby and mints, Lawbot offices, and the final round of Bossbot golf courses
 - Brings back the original Rainbow Angel Wings accessory texture
 - Restores the Cog Building statue to its original texture
+- Restores the original teleportation hole texture
+- Recreates the idea that Toontown Online had limited texture space, by editing and reusing Donald's Dock's tunnel sign texture for Donald's Dreamland
 
 ## To-do list...
 - Restore the original party cannon texture
-- ~~Restore the original teleportation hole texture~~ <b>DONE!</b>
-- ~~Restore the original Pirate Hat accessory texture~~ <b>Not feasible, as the Pirate Hat accessory was remodelled and thus the original texture does not fit correctly</b>
-- Implement a replacement for the Donald's Dreamland tunnel signs
+
 ---
 For the most authentic experience, adjust your game's video settings to be the following:
  - <b>V-Sync</b> ➜ Enabled
