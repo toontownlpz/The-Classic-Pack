@@ -7,7 +7,7 @@
 - Brings back the blurrier chat/thought bubbles texture
 - Restores the whisper sound effect in place of the notification sound effect
 - Mutes the Cog attacks that did not have sound effects in Toontown Online
-- Replaces the blue magnet's texture with the red magnet's texture
+- Crudely recreated the magnet gag's texture to look as low-resolution as it was in Toontown Online
 - Removes the theme created for Daisy Gardens buildings
 - Mutes Clarabelle when viewing the cattlelog
 - Removes the underwater music in Donald's Dock and Chip 'n Dale's Acorn Acres
