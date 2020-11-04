@@ -28,6 +28,7 @@
 - Restore the original party cannon texture
 
 ---
+
 For the most authentic experience, adjust your game's video settings to be the following:
  - <b>V-Sync</b> ➜ Enabled
  - <b>Antialiasing</b> ➜ Off
@@ -36,3 +37,8 @@ For the most authentic experience, adjust your game's video settings to be the f
  - <b>Animation Blending</b> ➜ Disabled
  - <b>GUI Animation</b> ➜ Disabled
  - <b>Animation Smoothing</b> ➜ Disabled
+ 
+ ---
+
+## Know of any other texture changes?
+Feel free to let me know or create a pull request with the changes you want to make!
