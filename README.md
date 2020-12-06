@@ -2,7 +2,7 @@
  A resource pack for [Toontown Rewritten](https://www.toontownrewritten.com/), restoring the low-quality goodness of Toontown Online. Inspired by the 'Old Toontown Content Pack' created by [/u/jojo8624](https://www.reddit.com/user/jojo8624/).
 
 ## At the moment, the pack does the following...
-- Replaces the Toontown Rewritten theme with the Toontown Online theme
+- Replaces the current Toontown Rewritten theme, logo and icon with the ones from BETA
 - Removes all holiday-themed splash screens and Pick-a-Toon screens
 - Brings back the blurrier chat/thought bubbles texture
 - Restores the whisper sound effect in place of the notification sound effect
