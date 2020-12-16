@@ -26,7 +26,7 @@
 
 ---
 
-For the most authentic experience, adjust your game's video settings to be the following:
+For the most authentic experience, adjust the game's video settings to match the following:
  - <b>V-Sync</b> ➜ Enabled
  - <b>Antialiasing</b> ➜ Off
  - <b>LOD Distance</b> ➜ Near
