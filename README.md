@@ -24,9 +24,6 @@
 - Restores the original teleportation hole texture
 - Recreates the idea that Toontown Online had limited texture space, by editing and reusing Donald's Dock's tunnel sign texture for Donald's Dreamland
 
-## To-do list...
-- Restore the original party cannon texture
-
 ---
 
 For the most authentic experience, adjust your game's video settings to be the following:
