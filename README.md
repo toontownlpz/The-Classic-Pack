@@ -5,7 +5,7 @@
 
 ## At the moment, the pack does the following...
 - Added the iconic Toontown Online cloud background to the game's initial loading screen and splash screen
-- Replaces the current Toontown Rewritten theme, logo and icon with the ones from BETA
+- Replaces the current Toontown Rewritten branding with the branding from BETA
 - Removes all holiday-themed splash screens and Pick-a-Toon screens
 - Removes a majority of Toontown Rewritten's winter holiday retextures
   - This also includes the playground music
