@@ -28,10 +28,12 @@
   - Battle menu
   - Cog statue
   - Chat/thought bubble
+  - Fishing, gardening, golfing and racing clothes
   - Many, if not all, the fish
   - Fishing GUI
+  - Cupcake house exterior
   - Pick-a-Toon boxes
-  - ...and some miscellaneous Cog HQ, street sign, kart racing and estate textures
+  - ...and some miscellaneous Cog HQ, street sign, racing and estate textures
 - Mutes Clarabelle when viewing the cattlelog
 - Brings back the out-of-sync running sound effect
 - Crudely recreate old cannon texture over new cannon texture
