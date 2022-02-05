@@ -1,5 +1,8 @@
 # The Classic Pack
- A resource pack for [Toontown Rewritten](https://www.toontownrewritten.com/), restoring the low-quality goodness of Toontown Online. Inspired by the 'Old Toontown Content Pack' created by [/u/jojo8624](https://www.reddit.com/user/jojo8624/).
+
+# ![Toontown Rewritten BETA Logo](https://static.wikia.nocookie.net/logopedia/images/9/9c/TTR_OPEN-BETA_logo.png/revision/latest?cb=20170812174923)
+
+**The Classic Pack** is a resource pack for [Toontown Rewritten](https://www.toontownrewritten.com/), restoring the low-quality goodness of Toontown Online. Inspired by the 'Old Toontown Content Pack' created by [/u/jojo8624](https://www.reddit.com/user/jojo8624/).
 
 **Note: This pack is not meant to try and hide or remove content created by the Toontown Rewritten team, only bring back what was changed from Toontown Online.**
 
