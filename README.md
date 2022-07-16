@@ -23,7 +23,6 @@
 - Crudely recreated the magnet gag's texture to look as low-resolution as it was in Toontown Online
 - Restores the original textures for...
   - Pie gag
-  - Jellybean model (featured in party trampolines)
   - Sellbot Skelecog torso
   - Teleportation hole
   - Shticker book's map
