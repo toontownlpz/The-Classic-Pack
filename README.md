@@ -7,13 +7,13 @@
 **Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. There may be some changes you disagree with in this content pack, but... it's my content pack. Fork it, if you wish.**
 
 ## At the moment, the pack does the following...
-- Added the iconic Toontown Online cloud background to the game's initial loading screen and splash screen
-- Replaces the current Toontown Rewritten branding with the branding from BETA
-- Removes all holiday-themed splash screens and Pick-a-Toon screens
+- Adds the iconic Toontown Online clouds to the game's initial loading screen and splash screen
+- Replaces the Toontown Rewritten branding with its BETA counterpart
+- Hides all holiday-themed splash screens and Pick-a-Toon screens
 - Removes a majority of Toontown Rewritten's winter holiday retextures
   - This also includes the playground music
 - Removes Toontown Rewritten's original music in pre-existing areas, such as...
-  - The Toon Hall, specifically the Silly Meter areas
+  - The Toon Hall, specifically the Silly Meter area
   - Cashbot HQ trainyard, Mint, and CFO
   - Lawbot HQ DA Office
   - Daisy Gardens interior
@@ -37,7 +37,7 @@
   - Pick-a-Toon boxes
   - ...and some miscellaneous Cog HQ, street sign, racing and estate textures
 - Mutes Clarabelle when viewing the cattlelog
-- Brings back the out-of-sync running sound effect
+- Restores the fast-paced running sound effect
 - Crudely recreate old cannon texture over new cannon texture
 - Returns the broken transparency of the playground party gates
 - Restores the original textures for the following accessories...
