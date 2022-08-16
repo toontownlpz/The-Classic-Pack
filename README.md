@@ -87,6 +87,7 @@
 For the most authentic experience, adjust the game's video settings to match the following:
  - <b>V-Sync</b> ➜ Enabled
  - <b>Antialiasing</b> ➜ Off
+ - <b>Anisotropic Filtering</b> ➜ Off
  - <b>LOD Distance</b> ➜ Near
  - <b>Font Quality</b> ➜ Classic
  - <b>Animation Blending</b> ➜ Disabled
