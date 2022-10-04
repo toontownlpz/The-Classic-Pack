@@ -10,6 +10,7 @@
 - Adds the iconic Toontown Online clouds to the game's initial loading screen and splash screen
 - Replaces the Toontown Rewritten branding with its BETA counterpart
 - Hides all holiday-themed splash screens and Pick-a-Toon screens
+- Introduces a recreation of the old Battle UI from prior to the Sellbot Task Force update (Thanks, [/u/King0654!](https://www.reddit.com/r/toontownrewritten/comments/mwsyxm/the_nostalgia_pack_v1_old_toontown_content_pack/))
 - Removes a majority of Toontown Rewritten's winter holiday retextures
   - This also includes the playground music
 - Removes Toontown Rewritten's original music in pre-existing areas, such as...
@@ -27,8 +28,10 @@
   - Teleportation hole
   - Shticker book's map
   - Toon eyes
-  - Battle menu
   - Cog statue
+  - Jellybean jar
+  - Clock timer
+  - Various ToonTask icons
   - Chat/thought bubble
   - Fishing, gardening, golfing and racing clothes
   - Many, if not all, the fish
@@ -79,6 +82,7 @@
   - Viking Horn Helmet (formerly Viking Helmet)
   - The Wizard of Odd (formerly Wizard Hat)
 - Recreates the idea that Toontown Online had limited texture space, by editing and reusing Donald's Dock's tunnel sign texture for Donald's Dreamland
+- Repaints the Sellbot Field Office exterior to look similar to its Toontown Online counterpart (Thanks, [Jerky!](https://contentpacks.net/mods.html))
 
 <b>Note:</b> Since Toontown Rewritten does not allow replacing models using content packs, the festive texture attached to the Bugle gag model cannot be removed. Sorry for the inconvenience!
 
