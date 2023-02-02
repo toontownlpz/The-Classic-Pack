@@ -20,6 +20,7 @@
   - Daisy Gardens interior
   - Underwater in Donald's Dock & Chip 'n Dale's Acorn Acres
   - Final Bossbot HQ Cog Golf Course round
+  - Sellbot Field Offices
 - Mutes the Cog attacks that did not have sound effects in Toontown Online
 - Crudely recreated the magnet gag's texture to look as low-resolution as it was in Toontown Online
 - Restores the original textures for...
