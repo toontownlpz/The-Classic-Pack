@@ -1,7 +1,5 @@
 # The Classic Pack
-
-# ![Toontown Rewritten BETA Logo](https://static.wikia.nocookie.net/logopedia/images/9/9c/TTR_OPEN-BETA_logo.png/revision/latest?cb=20170812174923)
-
+# ![The Classic Pack](https://user-images.githubusercontent.com/11021224/219816024-11fc0c31-8dce-463d-96a4-dab86b64470b.png)
 **The Classic Pack** is a content pack for ***[Toontown Rewritten](https://www.toontownrewritten.com/)*** designed to restore the visual irregularities, disappointments and confusion brought onto our childhood selves by our favorite computer game, *[Disney's Toontown Online](https://en.wikipedia.org/wiki/Toontown_Online)*. Why does my Toon sound like they're moving significantly faster than the speed they're actually running at? Why do Sellbot Skelecogs miss half of their torso? Why are in-game holiday events so bland? Welp, get all that back with this content pack!
 
 **Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. There may be some changes you disagree with in this content pack, but... it's my content pack. Fork it, if you wish.**
