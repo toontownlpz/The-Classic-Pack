@@ -96,3 +96,7 @@ For the most authentic experience, adjust the game's video settings to match the
  - <b>Animation Blending</b> ➜ Disabled
  - <b>GUI Animation</b> ➜ Disabled
  - <b>Animation Smoothing</b> ➜ Disabled
+ 
+---
+
+If you notice any inaccuracies or errors with my pack, please feel free to use the issues tab of this repo, or contact me on Discord @ robertfwallis#7169.
