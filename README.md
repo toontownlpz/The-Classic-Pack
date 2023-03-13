@@ -41,7 +41,7 @@
   - Fishing GUI
   - Cupcake house exterior
   - Pick-a-Toon boxes
-  - ...and some miscellaneous Cog HQ, street sign, racing and estate textures
+  - ...and some miscellaneous Cog HQ, street sign, Sellbot Field Office, racing and estate textures
 - Mutes Clarabelle when viewing the cattlelog
 - Restores the fast-paced running sound effect
 - Crudely recreate old cannon texture over new cannon texture
@@ -85,7 +85,7 @@
   - Viking Horn Helmet (formerly Viking Helmet)
   - The Wizard of Odd (formerly Wizard Hat)
 - Recreates the idea that Toontown Online had limited texture space, by editing and reusing Donald's Dock's tunnel sign texture for Donald's Dreamland
-- Repaints the Sellbot Field Office exterior to look similar to its Toontown Online counterpart (Thanks, [Jerky!](https://contentpacks.net/mods.html))
+- Repaints the Sellbot Field Office exterior to look similar to its Toontown Online counterpart, also tweaking The Boiler to match this (Thanks, [Jerky!](https://contentpacks.net/mods.html))
 
 <b>Note:</b> Since Toontown Rewritten does not allow replacing models using content packs, the festive texture attached to the Bugle gag model cannot be removed. Sorry for the inconvenience!
 
