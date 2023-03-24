@@ -32,6 +32,7 @@
   - Shticker book's map
   - Toon eyes
   - Cog statue
+  - Ambulance Chaser's head
   - Jellybean jar
   - Clock timer
   - Various ToonTask icons
