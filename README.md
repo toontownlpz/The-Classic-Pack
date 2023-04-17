@@ -4,9 +4,9 @@
 
 ---
 
-**The Classic Pack** is a content pack for ***[Toontown Rewritten](https://www.toontownrewritten.com/)*** designed to restore the visual irregularities, disappointments and confusion brought onto our childhood selves by our favorite computer game, *[Disney's Toontown Online](https://en.wikipedia.org/wiki/Toontown_Online)*. Why does my Toon sound like they're moving significantly faster than the speed they're actually running at? Why do Sellbot Skelecogs miss half of their torso? Why are in-game holiday events so bland? Welp, get all that back with this content pack!
+**The Classic Pack** is a content pack for ***[Toontown Rewritten](https://www.toontownrewritten.com/)*** designed to restore the visual irregularities, disappointments and confusion brought onto our childhood selves by our favorite computer game, *[Disney's Toontown Online](https://en.wikipedia.org/wiki/Toontown_Online)*. Boring holiday events, super-sonic Toon running, and skinnier Sellbot Skelecogs galore!
 
-**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. There may be some changes you disagree with in this content pack, but... it's my content pack. Fork it, if you wish.**
+**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I may naturally flip-flop on this stance on a per-change basis. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ robertfwallis#7169 if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
 
 ## At the moment, the pack does the following...
 - Adds the iconic Toontown Online clouds to the game's initial loading screen and splash screen
