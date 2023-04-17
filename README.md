@@ -6,8 +6,6 @@
 
 **The Classic Pack** is a content pack for ***[Toontown Rewritten](https://www.toontownrewritten.com/)*** designed to restore the visual irregularities, disappointments and confusion brought onto our childhood selves by our favorite computer game, *[Disney's Toontown Online](https://en.wikipedia.org/wiki/Toontown_Online)*. Boring holiday events, super-sonic Toon running, and skinnier Sellbot Skelecogs galore!
 
-**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I may naturally flip-flop on this stance on a per-change basis. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ robertfwallis#7169 if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
-
 ## At the moment, the pack does the following...
 - Adds the iconic Toontown Online clouds to the game's initial loading screen and splash screen
 - Replaces the Toontown Rewritten branding with its BETA counterpart
@@ -92,6 +90,10 @@
 
 ---
 
+**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I will naturally flip-flop on this stance where I see fit. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ [robertfwallis#7169](https://discord.com/users/107224459018006528) if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
+
+---
+
 For the most authentic experience, adjust the game's video settings to match the following:
  - <b>V-Sync</b> ➜ Enabled
  - <b>Antialiasing</b> ➜ Off
@@ -102,10 +104,6 @@ For the most authentic experience, adjust the game's video settings to match the
  - <b>GUI Animation</b> ➜ Disabled
  - <b>Animation Smoothing</b> ➜ Disabled
  
----
-
-If you notice any inaccuracies or errors with this pack, feel free to use the issues tab of this repo, or contact me directly on [Discord](https://discord.com/) @ <b>robertfwallis#7169</b>
-
 ---
 
 This content pack is not affiliated with The Walt Disney Company and/or the Disney Interactive Media Group, Toontown Rewritten, or [contentpacks.net](https://contentpacks.net/).<sup>[1]</sup> Use of this pack confirms you hereby release these entities of any responsibility when it comes to the use of The Classic Pack.
