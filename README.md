@@ -105,3 +105,9 @@ For the most authentic experience, adjust the game's video settings to match the
 ---
 
 If you notice any inaccuracies or errors with this pack, feel free to use the issues tab of this repo, or contact me directly on [Discord](https://discord.com/) @ <b>robertfwallis#7169</b>
+
+---
+
+This content pack is not affiliated with The Walt Disney Company and/or the Disney Interactive Media Group, Toontown Rewritten, or [contentpacks.net](https://contentpacks.net/).<sup>[1]</sup> Use of this pack confirms you hereby release these entities of any responsibility when it comes to the use of The Classic Pack.
+
+<sup>[1] v1.7.1_rv2 of this content pack was distributed via contentpacks.net briefly, incorrectly labelled as v1.6.1. Previous and further releases will only be available via this GitHub repo.</sup>
