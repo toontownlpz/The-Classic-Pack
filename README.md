@@ -32,7 +32,7 @@
   - Toon eyes
   - Cog statue
   - Ambulance Chaser's head
-  - Nurse Shark fish
+  - Nurse Shark fish (Thanks, /u/King0654!)
   - Jellybean jar
   - Racing tickets
   - Clock timer
