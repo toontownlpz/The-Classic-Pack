@@ -31,7 +31,9 @@
   - Toon eyes
   - Cog statue
   - Ambulance Chaser's head
+  - Nurse Shark fish
   - Jellybean jar
+  - Racing tickets
   - Clock timer
   - Various ToonTask icons
   - Chat/thought bubble
