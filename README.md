@@ -10,7 +10,7 @@
 - Adds the iconic Toontown Online clouds to the game's initial loading screen and splash screen
 - Replaces the Toontown Rewritten branding with its BETA counterpart
 - Hides all holiday-themed splash screens and Pick-a-Toon screens
-- Introduces a recreation of the old Battle UI from prior to the Sellbot Task Force update (Thanks, [/u/King0654!](https://www.reddit.com/r/toontownrewritten/comments/mwsyxm/the_nostalgia_pack_v1_old_toontown_content_pack/))
+- Introduces a recreation of the old Battle UI from prior to the Sellbot Task Force update (Thanks, [/u/King0654](https://www.reddit.com/r/toontownrewritten/comments/mwsyxm/the_nostalgia_pack_v1_old_toontown_content_pack/)!)
 - Removes a majority of Toontown Rewritten's winter holiday retextures
   - This also includes the playground music
 - Removes Toontown Rewritten's original music in pre-existing areas, such as...
@@ -86,13 +86,13 @@
   - Viking Horn Helmet (formerly Viking Helmet)
   - The Wizard of Odd (formerly Wizard Hat)
 - Recreates the idea that Toontown Online had limited texture space, by editing and reusing Donald's Dock's tunnel sign texture for Donald's Dreamland
-- Repaints the Sellbot Field Office exterior to look similar to its Toontown Online counterpart, also tweaking The Boiler to match this (Thanks, [Jerky!](https://contentpacks.net/mods.html))
+- Repaints the Sellbot Field Office exterior to look similar to its Toontown Online counterpart, also tweaking The Boiler to match this (Thanks, [Jerky](https://contentpacks.net/mods.html)!)
 
 <b>Note:</b> Since Toontown Rewritten does not allow replacing models using content packs, the festive texture attached to the Bugle gag model cannot be removed. Sorry for the inconvenience!
 
 ---
 
-**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I will naturally flip-flop on this stance where I see fit. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ [robertfwallis#7169](https://discord.com/users/107224459018006528) if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
+**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I will naturally flip-flop on this stance where I see fit. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ [robertfwallis](https://discord.com/users/107224459018006528) if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
 
 ---
 
