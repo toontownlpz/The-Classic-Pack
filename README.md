@@ -8,7 +8,7 @@
 
 ## At the moment, the pack does the following...
 - Adds the iconic Toontown Online clouds to the game's initial loading screen and splash screen
-- Replaces the Toontown Rewritten branding with its BETA counterpart
+- Replaces the Toontown Rewritten branding with its BETA counterpart, also hiding the 10th Anniversary logos
 - Re-introduces an edited version of the original Pick-a-Toon background (Thanks, [Sarah/RynoGG](https://twitter.com/_rynogg)!)
 - Hides all holiday-themed splash screens and Pick-a-Toon screens
 - Introduces a recreation of the old Battle UI from prior to the Sellbot Task Force update (Thanks, [/u/King0654](https://www.reddit.com/r/toontownrewritten/comments/1269hof/the_nostalgia_pack_v3_old_toontown_content_pack/)!)
@@ -83,6 +83,7 @@
   - Scuba Goggles (formerly Scuba Mask)
   - Scuba Tank
   - Sun-Scorched Safari Hat (formerly Beige Safari Hat)
+  - Toon Party Hat (replaced by the Toontown RewritTEN Topper)
   - Toontown Police Cap (formerly Cop Hat)
   - Viking Horn Helmet (formerly Viking Helmet)
   - The Wizard of Odd (formerly Wizard Hat)
