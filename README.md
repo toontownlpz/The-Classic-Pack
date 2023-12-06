@@ -108,7 +108,7 @@ For the most authentic experience, adjust the game's video settings to match the
  - <b>GUI Animation</b> ➜ Disabled
  - <b>Animation Smoothing</b> ➜ Disabled
 
-**UPDATE:** As of December 5th, 2023, Toontown Rewritten has introduced an unsupported/experimental aspect ratio option. You can find it by opening the [settings.json](https://toontownrewritten.wiki/Settings.json) file in a text editor, and navigating to the `"video"` section. Simply changing the value of `"forced-aspect-ratio":` from `0.0` to `1.3333333` creates the infamously dubbed "4:3 aspect ratio lock" Toontown Online was known for.
+<b>UPDATE:</b> As of December 5th, 2023, Toontown Rewritten has introduced an unsupported/experimental aspect ratio option. You can find it by opening the [settings.json](https://toontownrewritten.wiki/Settings.json) file in a text editor, and navigating to the `"video"` section. Simply changing the value of `"forced-aspect-ratio":` from `0.0` to `1.3333333` creates the infamously dubbed "4:3 aspect ratio lock" Toontown Online was known for.
 ---
 
 This content pack is not affiliated with The Walt Disney Company and/or Disney Interactive, Toontown Rewritten, or [contentpacks.net](https://contentpacks.net/).<sup>[1]</sup> Use of this pack confirms you hereby release these entities of any responsibility when it comes to the use of The Classic Pack.
