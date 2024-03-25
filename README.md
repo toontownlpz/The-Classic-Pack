@@ -94,7 +94,7 @@
 
 ---
 
-**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I will naturally flip-flop on this stance where I see fit. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ [robertfwallis](https://discord.com/users/107224459018006528) if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
+**Note: This content pack does not specifically aim to remove or change features introduced by the *Toontown Rewritten* team, but rather restore what was changed when the game was given some love by the wonderful folks on their team. I will naturally flip-flop on this stance where I see fit. There may be some changes you disagree with in this content pack, but you are welcome to strike up a discussion with me over on Discord @ [toontownlpz](https://discord.com/users/107224459018006528) if you have any proposals. Alternatively, feel free to fork this pack and create your own pull requests!**
 
 ---
 
