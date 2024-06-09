@@ -74,6 +74,7 @@
   - Party Polka Hat (formerly Party Hat)
   - Pint-sized Propeller (formerly Propeller Hat)
   - Pirate Eyepatch
+  - Pirate Hat
   - Pretty Pink Tiara (formerly Tiara)
   - Princess Headdress (formerly Princess Hat)
   - Rainbow Afro (formerly Rainbow Wacky Wig)
