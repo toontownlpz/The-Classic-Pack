@@ -18,6 +18,7 @@
   - The Toon Hall, specifically the Silly Meter area
   - Cashbot HQ trainyard, Mint, and CFO
   - Lawbot HQ DA Office
+  - All Cog facility battles
   - Daisy Gardens interior
   - Underwater in Donald's Dock & Chip 'n Dale's Acorn Acres
   - Final Bossbot HQ Cog Golf Course round
