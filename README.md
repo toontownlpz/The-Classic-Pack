@@ -1,4 +1,3 @@
-# ***Due to real life commitments and lack of interest, this project will remain archived for the foreseeable future. Please feel free to fork the project and continue it yourself.***
 ## The Classic Pack
 
 ![The Classic Pack](https://user-images.githubusercontent.com/11021224/219852732-23e299aa-4bd1-4961-a48f-d9ae543b88ed.png)
